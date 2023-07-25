@@ -1,3 +1,21 @@
 .card {
     margin-left: 2px;
 }
+
+.image-container {
+  position: relative;
+  overflow: hidden;
+}
+
+.btn-hover {
+  position: absolute;
+  bottom: 10px;
+  left: 50%;
+  transform: translateX(-50%);
+  opacity: 0;
+  transition: opacity 0.3s ease-in-out;
+}
+
+.image-container:hover .btn-hover {
+  opacity: 1;
+}
