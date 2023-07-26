@@ -1,3 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Open Sans', sand-serif;
+}
+
+.container-sub{
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 22, 0, 0.7);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: col;
+}
+
+.conten-sub h2{
+  color: #fff;
+  font-size: 30px;
+  margin-bottom: 10px;
+}
+
+.conten-sub p{
+  color: #000000;
+  font-size: 17px;
+  margin-bottom: 25px;
+  max-width: 500px;
+}
+
+.conten-sub form{
+  width: 100%;
+  max-width: 440px;
+  display: flex;
+
+}
+
+.conten-sub form .campo{
+  width: 100%;
+  padding: 15px 15px;
+  font-size: 16px;
+  border: none;
+  border-radius: 3px 0px 0px 3px;
+  outline: 0px;
+}
+
+.conten-sub form .btn-sub{
+  padding: 15px 15px;
+  border: none;
+  font-size: 16px;
+  border-radius: 0px 3px 3px 0px;
+  background: #68c3a3;
+  color: #000000;
+  cursor: pointer;
+  outline: 0px;
+
+}
+
+.conten-sub form .btn-sub:hover{
+  background: #3eba8f;
+}
+
 .card {
     margin-left: 2px;
 }
