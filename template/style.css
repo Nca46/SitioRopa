@@ -93,3 +93,8 @@ body {
       margin: 10px auto; 
   }
 }
+
+.centrar-titulo {
+  text-align: center;
+  margin: 10px;
+}
