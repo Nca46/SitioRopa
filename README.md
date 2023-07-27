@@ -8,17 +8,17 @@ Se requiere el desarrollo de un sitio web responsivo para una tienda de ropa uti
 ### Pagina de inicio:
 - [x] La página de inicio debe incluir un banner promocional con una imagen y texto destacado.
 - [ ] Debe mostrar una sección destacada con algunos productos destacados de la colección actual.
-- [ ] Debe incluir un formulario de suscripción para que los visitantes se suscriban al boletín de noticias.
+- [x] Debe incluir un formulario de suscripción para que los visitantes se suscriban al boletín de noticias.
 
 ### Catálogo de productos:
 - [x] Debe haber una página de catálogo que muestre todos los productos de la tienda.
 - [x] Los productos deben mostrarse en forma de cuadrícula con imágenes, título y precio.
-- [ ] Debe ser posible filtrar los productos por categoría (por ejemplo, hombres, mujeres, niños) utilizando botones de filtro.
+- [x] Debe ser posible filtrar los productos por categoría (por ejemplo, hombres, mujeres, niños) utilizando botones de filtro.
 
 ### Página de detalles del producto:
 - [ ] Al hacer clic en un producto en el catálogo, se debe mostrar una página con los detalles completos del producto.
 - [ ] Debe incluir una imagen grande del producto, título, descripción, precio y opciones de compra (por ejemplo, selección de talla y color).
-- [ ] Debe haber un botón para agregar el producto al carrito de compras.
+- [x] Debe haber un botón para agregar el producto al carrito de compras.
 
 ### Carrito de compras:
 - [ ] Debe haber una página de carrito de compras que muestre los productos seleccionados por el usuario.
