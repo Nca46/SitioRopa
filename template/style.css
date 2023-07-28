@@ -98,3 +98,12 @@ body {
   text-align: center;
   margin: 10px;
 }
+
+.btn-container {
+    display: flex;
+    justify-content: center;
+  }
+
+  .btn-container a {
+    margin: 5px; /* Ajusta la separación entre los botones */
+  }
