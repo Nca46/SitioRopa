@@ -28,7 +28,7 @@ Se requiere el desarrollo de un sitio web responsivo para una tienda de ropa uti
 
 ## Implementación en DigitalOcean utilizando DigitalOcean Apps
 - [ ] Crear una cuenta en DigitalOcean (si no la tienen) y crear una nueva aplicación en DigitalOcean Apps.
-- [ ] Configurar la aplicación para que utilice el repositorio Git como fuente de implementación.
+- [ ] Configit gurar la aplicación para que utilice el repositorio Git como fuente de implementación.
 - [ ] Configurar el entorno de ejecución de la aplicación (por ejemplo, Node.js, Python, etc.) según las necesidades del proyecto.
 - [ ] Configurar las variables de entorno necesarias, como las credenciales de base de datos, claves de API, etc.
 - [ ] Configurar las rutas y configuraciones del servidor web dentro de la configuración de la aplicación en DigitalOcean Apps.

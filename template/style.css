@@ -98,3 +98,8 @@ body {
   text-align: center;
   margin: 10px;
 }
+
+.button-container a {
+  display: inline-block;
+  margin-right: 10px; /* Ajusta el valor para cambiar la separación */
+}
