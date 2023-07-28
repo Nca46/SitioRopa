@@ -40,11 +40,11 @@ h2{
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
-    background-image: url("../../files/3.jpg");
-    background-size: cover;
+    min-height: 100vh;
+    background-color: black;
     background-repeat: no-repeat;
   }
+  
   
   .conten-sub {
     text-align: center;
