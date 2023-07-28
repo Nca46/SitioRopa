@@ -99,11 +99,7 @@ body {
   margin: 10px;
 }
 
-.btn-container {
-    display: flex;
-    justify-content: center;
-  }
-
-  .btn-container a {
-    margin: 5px; /* Ajusta la separación entre los botones */
-  }
+.button-container a {
+  display: inline-block;
+  margin-right: 10px; /* Ajusta el valor para cambiar la separación */
+}
