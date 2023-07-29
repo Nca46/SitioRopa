@@ -36,13 +36,14 @@ h2{
     font-family: Arial, sans-serif;
   }
   
-  .container-sub {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    min-height: 100vh;
-    background-color: black;
-    background-repeat: no-repeat;
+  .container-sub{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color:thistle;
+  background-size: cover;
+  background-repeat: no-repeat;
   }
   
   
